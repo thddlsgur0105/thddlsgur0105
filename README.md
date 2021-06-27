@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @thddlsgur0105
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 thddlsgur0105/thddlsgur0105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
