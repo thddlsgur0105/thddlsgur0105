@@ -4,10 +4,8 @@
                                                     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thddlsgur0105)](https://github.com/anuraghazra/github-readme-stats)
 
-## University Sophomore Interested In Programming
-
-* Currently Interested In Frontend Development
-
+* Currently Interested In Data Science
+  
 ![Javascript Badge](https://img.shields.io/badge/-Javascript-%23F7DF1E)
 ![Html5 Badge](https://img.shields.io/badge/-HTML5-%23E34F26)
 ![Css3 Badge](https://img.shields.io/badge/-CSS3-%231572B6)
